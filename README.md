@@ -7,6 +7,11 @@
 
 - :black_nib: *Aplicar o conteúdo aprendido nas aulas da D.I.O*
 
+- :rocket: **Aprender na prática a utilizar comandos sql**
+
 - :bar_chart: ***Aprimorar e desenvolver o aprendizado com MySQL***
 
-- :chart_with_upwards_trend:  **Desenvolver a analise lógica em relação a narrativa imposta para o desafio**
+- :chart_with_upwards_trend:  **Desenvolver a habilidade de criar e entender os bancos de dados**
+
+
+
