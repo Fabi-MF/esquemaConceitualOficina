@@ -1,6 +1,11 @@
 -- querys oficina_mecanica2
 use desafio_oficina_mecanica;
+
 -- inserção de dados
+-- ⚠️ ALERTA: Os dados utilizados neste ambiente foram gerados por inteligência artificial.
+-- Eles são totalmente fictícios, não representam pessoas reais e foram criados apenas para fins de teste, estudo ou demonstração.
+
+
 INSERT INTO oficina_mecanica VALUES
 (1, '12345678000199', 'Oficina Ctrl Ltda', 'AutoFix Brasil', 'Rua das Engrenagens, 123 - Centro, São Paulo - SP');
 
