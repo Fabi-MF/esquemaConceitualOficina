@@ -14,4 +14,8 @@
 - :chart_with_upwards_trend:  **Desenvolver a habilidade de criar e entender os bancos de dados**
 
 
+### :warning:  Atenção:  :warning:
 
+***Os dados apresentados foram gerados por inteligência artificial.***
+
+***São fictícios e utilizados exclusivamente para fins educacionais.***
